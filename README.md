@@ -1,1 +1,1 @@
-# python-eysileri
+# python şeysileri
